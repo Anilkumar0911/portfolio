@@ -242,7 +242,7 @@ nav{
 }
 .image img{
     width: 420px;
-    height: auto;
+    height: 420px;
     border-radius: 50%;;
     object-fit: contain;
 }
